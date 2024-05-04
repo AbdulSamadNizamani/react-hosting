@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
 import React from "react";
-import $ from "jquery";
 
 // import { Swiper, SwiperSlide } from 'swiper/react';
 // import 'swiper/swiper-bundle.min.css';
